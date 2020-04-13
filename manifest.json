@@ -1,0 +1,8 @@
+{
+  "domain": "ip_sensor",
+  "name": "IP presence sensor",
+  "documentation": "https://github.com/bskaplou/ip_sensor",
+  "dependencies": [],
+  "codeowners": [],
+  "requirements": []
+}

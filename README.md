@@ -1,6 +1,6 @@
 # IP Sensor
 
-This is a simple implementation of binary sensor which chechs the presense of IP address in network.
+This is a simple implementation of binary sensor which checks the presense of IP address in network.
 
 ### Installation
 

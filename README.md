@@ -14,6 +14,6 @@ binary_sensor:
   platform: ip_sensor
   scan_interval: 5
   hosts:
-    router: 192.168.2.1
-    toshiba_tv: 192.168.2.149
+    router: 192.168.2.1        # device => binary_sensor.router
+    toshiba_tv: 192.168.2.149  # device => binary_sensor.toshiba_tv
 ```
